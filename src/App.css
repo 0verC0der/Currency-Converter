@@ -1,0 +1,35 @@
+header {
+  background-color: rgb(119, 119, 202);
+  margin : 0;
+  padding-bottom : .4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; ;
+  min-height: 20vh;
+  border-radius: 0 0 30px 30px;
+}
+
+h1 {
+  margin: 0;
+  margin-bottom: .3rem
+
+}
+
+.input {
+  border: 2 px solid rgb(129, 151, 35);
+  border-radius: 3em;
+  padding: .25rem;
+  width:  7em;
+}
+
+select{
+  margin-left: .25em;
+}
+
+.equal {
+  font-size: 1.5em;
+  font-weight: bold;
+  
+}
+
